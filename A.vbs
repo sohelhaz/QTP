@@ -1,3 +1,6 @@
+
+'Created by Haideruzzaman Sohel
+
 Set A=CreateObject("QuickTest.Application")
 A.Launch
 A.Visible=True
